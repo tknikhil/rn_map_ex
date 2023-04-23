@@ -1,1 +1,1 @@
-export const GOOGLE_MAP_API="";
+export const GOOGLE_MAP_API="check in google map api key folder";
